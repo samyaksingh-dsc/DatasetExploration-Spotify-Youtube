@@ -1,7 +1,10 @@
 # DatasetExploration-Spotify-Youtube
 **Project Overview**
+
 This project explores a dataset compiled from Spotify and YouTube, focusing on metrics such as track popularity, artist following, and audio feature analysis. The objective was to clean and analyze the data to extract meaningful insights about music trends and listener preferences.
+
 **Dataset Description**
+
 The dataset was sourced from Kaggle and includes information on both Spotify and YouTube. 
 Key metrics analyzed include:
 •	Track popularity
